@@ -29,6 +29,7 @@ fun main(args: Array<String>) {
                 statistika(rows, seats, listaGlavna)
             }
         }
+
     } while (unos != 0)
 
 
